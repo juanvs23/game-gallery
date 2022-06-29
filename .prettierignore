@@ -1,0 +1,6 @@
+dist
+doc
+node_modules
+package.json
+vite.config.js
+tailwind.config.js
