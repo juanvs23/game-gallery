@@ -5,7 +5,7 @@ import App from './App';
 import './index.scss';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-	<BrowserRouter>
+	<BrowserRouter basename='https://juanvs23.github.io/game-gallery/'>
 		<App />
 	</BrowserRouter>
 );
